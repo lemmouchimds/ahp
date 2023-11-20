@@ -1,6 +1,6 @@
-# ahp
+# AHP Project
 
-A new Flutter project.
+A new Flutter project that takes and compaires criterias and alternatives to get the best alternative (best choice).
 
 ## Getting Started
 
